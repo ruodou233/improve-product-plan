@@ -1,0 +1,4 @@
+interface:
+  display_name: "完善你的产品方案"
+  short_description: "把模糊应用想法梳理成清晰可开发、可验收的完整阶段方案"
+  default_prompt: "Use $improve-product-plan to help me clarify this app idea into a SPEC.md."
