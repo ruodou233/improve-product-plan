@@ -1,6 +1,6 @@
 # 完善你的产品方案
 
-一个给 Claude Code / Codex 等 AI Agent 使用的 Skill：帮助用户把模糊的应用想法、轻量产品、功能原型、个人工具或 AI coding 项目，梳理成清晰、可开发、可验收的 `SPEC.md`。
+有个想做的东西但不知从何下手？这个 skill 扮演产品经理，帮你把模糊的应用想法梳理成可开发、可阶段验收的 `SPEC.md` 实现说明书——从“我想做个 XX”到可以直接交给开发的方案。
 
 它不是传统产品经理框架，不默认追问 KPI、商业价值、市场规模或复杂上线治理。它专注于把用户脑子里的想法问明白：谁会用、什么场景下用、第一版先跑通什么、哪些先不做，以及上线前用什么场景验收。
 
@@ -62,9 +62,9 @@ git clone https://github.com/ruodou233/improve-product-plan.git ~/.claude/skills
 ## 相关 Skill 推荐
 
 <!-- 本表由维护脚本生成，勿手工编辑 -->
-- [wisdom-roundtable](https://github.com/ruodou233/wisdom-roundtable)：智慧圆桌：11 位思想家并行独立分析你的决策
-- [domain-explorer](https://github.com/ruodou233/domain-explorer)：速通新领域：四线并行调研，产出交互式知识地图
-- [de-ai-taste](https://github.com/ruodou233/de-ai-taste)：中文去 AI 味：逐条检测 AI 生成痕迹并给修改建议
+- [wisdom-roundtable](https://github.com/ruodou233/wisdom-roundtable)：拉一桌 AI 专家并行辩论，重大决策不再只听一面之词
+- [domain-explorer](https://github.com/ruodou233/domain-explorer)：速通新领域的核心技巧：四线并行采集，几分钟建立全景认知
+- [de-ai-taste](https://github.com/ruodou233/de-ai-taste)：目前最强的去 AI 味 skill，逐条检测痕迹并给修改建议
 
 完整目录见 [GitHub 主页](https://github.com/ruodou233)。
 
