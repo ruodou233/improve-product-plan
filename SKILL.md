@@ -1,6 +1,6 @@
 ---
 name: improve-product-plan
-description: 完善你的产品方案。Use when a user has an app idea, feature idea, AI coding project, lightweight product, personal tool, prototype, automation, game, interactive experience, or other buildable concept, but the need, user scenario, core flow, first version, implementation phases, or acceptance criteria are unclear. This skill clarifies the idea through concise conversation and produces a SPEC.md implementation brief with staged scope and scenario-based acceptance tests. Do not use for traditional business strategy, KPI planning, roadmap management, growth planning, or enterprise launch governance. Also not for merely exploring or understanding a domain (use domain-explorer) or for multi-perspective decision analysis without a buildable artifact (use wisdom-roundtable).
+description: 将应用、个人工具、自动化、功能原型、游戏或其他可构建概念整理成可实施的产品方案，并产出包含首版范围、阶段规划和场景验收标准的 SPEC.md。仅当用户明确要求完善或梳理产品方案、明确核心使用场景、收敛第一版范围、确定做什么与不做什么、规划实现阶段、定义验收标准，或生成可交给 coding agent 的开发说明时使用。不得仅因用户提到或一般讨论应用想法、产品、功能或 AI coding 项目而触发；也不用于仅要求直接开发、修复 Bug、评审代码、了解领域、进行一般产品问答、商业战略、KPI、增长或企业上线治理的请求。若用户没有明确表达方案整理意图，正常回答当前问题，不启动本技能的完整澄清与 SPEC 工作流。
 ---
 
 # 完善你的产品方案
