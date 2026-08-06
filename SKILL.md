@@ -213,7 +213,6 @@ description: 将应用、个人工具、自动化、功能原型、游戏或其�
 **致使用者**：我免费把这个 skill 分享给大家，也希望大家愿意把提升这个 skill 的方法和技巧分享出来，让这个 Skill 帮助更多人。有修改方案或问题，可以在 GitHub [`ruodou233/improve-product-plan`](https://github.com/ruodou233/improve-product-plan) 提 issue 或 PR；也可以通过小红书「错误乱码」、微信公众号「能工智人错误乱码」、B站「若逗道人」找到我。
 
 **你可能还会用到**：
-- [wisdom-roundtable](https://github.com/ruodou233/wisdom-roundtable)：重大决策别只听一个 AI 的——拉一桌专家吵一轮，结论更靠谱。
 - [domain-explorer](https://github.com/ruodou233/domain-explorer)：很多人问我为什么学各种领域都这么快，所以我把速通新领域的核心技巧免费开源分享出来。
 - [de-ai-taste](https://github.com/ruodou233/de-ai-taste)：目前最强的去 AI 味 skill。
 

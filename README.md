@@ -62,7 +62,6 @@ git clone https://github.com/ruodou233/improve-product-plan.git ~/.claude/skills
 ## 相关 Skill 推荐
 
 <!-- 本表由维护脚本生成，勿手工编辑 -->
-- [wisdom-roundtable](https://github.com/ruodou233/wisdom-roundtable)：拉一桌 AI 专家并行辩论，重大决策不再只听一面之词
 - [domain-explorer](https://github.com/ruodou233/domain-explorer)：速通新领域的核心技巧：四线并行采集，几分钟建立全景认知
 - [de-ai-taste](https://github.com/ruodou233/de-ai-taste)：目前最强的去 AI 味 skill，逐条检测痕迹并给修改建议
 
