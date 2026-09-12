@@ -1,4 +1,6 @@
-# 完善你的产品方案
+# 产品需求与 MVP 规划｜PRD & MVP Planning
+
+Plan product requirements and MVP scope, then produce a development spec with milestones and acceptance criteria.
 
 有个想做的东西但不知从何下手？这个 skill 扮演产品经理，帮你把应用、个人工具、自动化、功能原型或游戏想法梳理成可开发、可阶段验收的 `SPEC.md` 实现说明书。从“我想做个 XX”开始，一起问清楚谁会用、什么时候用、第一版先跑通什么，再写成可以直接交给开发的方案。
 
@@ -47,8 +49,8 @@ git clone https://github.com/ruodou233/improve-product-plan.git ~/.claude/skills
 ## 相关 Skill 推荐
 
 <!-- 本表由维护脚本生成，勿手工编辑 -->
-- [domain-explorer](https://github.com/ruodou233/domain-explorer)：速通新领域：入门、转行、选课题，先把来龙去脉和各路说法弄明白
-- [de-ai-taste](https://github.com/ruodou233/de-ai-taste)：AI 写的中文一眼就能看出来？逐条找出 AI 味、给出具体修改建议，让文章、讲稿和文案读起来像你写的。
+- [domain-explorer](https://github.com/ruodou233/domain-explorer)：速通新领域：入门、转行、选课题，先把来龙去脉和各路说法弄明白<br>Get up to speed on a new topic through its history, competing approaches, expert debates, and practical experience.
+- [de-ai-taste](https://github.com/ruodou233/de-ai-taste)：AI 写的中文一眼就能看出来？逐条找出 AI 味、给出具体修改建议，让文章、讲稿和文案读起来像你写的。<br>Review AI-written Chinese and suggest edits to remove formulaic phrasing while preserving the author's voice.
 
 完整目录见 [GitHub 主页](https://github.com/ruodou233)。
 
