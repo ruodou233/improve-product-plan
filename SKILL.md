@@ -97,12 +97,8 @@ description: 把应用、个人工具、自动化、功能原型或游戏想法�
 
 ### 6. Handoff
 
-最后输出一段开发交接提示，语言跟随用户：
+最后输出一段开发交接提示，语言跟随用户，并建议用户新开对话、只带入 `SPEC.md` 进入开发：
 
 ```text
 请根据这份 SPEC.md 实现 Phase 1。只做 Phase 1，不要做 Explicitly Out Of Scope 里的内容。完成后按 Scenario Acceptance Tests 自测，并说明哪些场景通过、哪些未通过。
 ```
-
-## Subagents And New Conversations
-
-进入开发时建议新开对话，只带入 `SPEC.md`，不带完整澄清聊天记录。
