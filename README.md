@@ -48,7 +48,6 @@ git clone https://github.com/ruodou233/improve-product-plan.git ~/.claude/skills
 
 ## 相关 Skill 推荐
 
-<!-- 本表由维护脚本生成，勿手工编辑 -->
 - [domain-explorer](https://github.com/ruodou233/domain-explorer)：速通新领域：入门、转行、选课题，先把来龙去脉和各路说法弄明白<br>Get up to speed on a new topic through its history, competing approaches, expert debates, and practical experience.
 - [de-ai-taste](https://github.com/ruodou233/de-ai-taste)：AI 写的中文一眼就能看出来？逐条找出 AI 味、给出具体修改建议，让文章、讲稿和文案读起来像你写的。<br>Review AI-written Chinese and suggest edits to remove formulaic phrasing while preserving the author's voice.
 
